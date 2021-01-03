@@ -1,7 +1,6 @@
 ## Covid-19 CT Scan Prediction With Deep Learning
 
-This project was done in collaboration with Zumari Chatham, Niket Pandya, John K. Kimutai, James Okullo and Youa Vang. The dataset was obtained from Kaggle and it is stored in a shared drive which can be accessed using the link below:
-https://drive.google.com/drive/folders/1xdk-mCkxCDNwsMAk2SGv203rY1mrbnPB?usp=sharing
+This project was done in collaboration with Zumari Chatham, Niket Pandya, John K. Kimutai, James Okullo and Youa Vang. The dataset was obtained from Kaggle and it is stored in a shared drive which can be accessed using this link: [Covid-19 CT Scan Dataset](https://drive.google.com/drive/folders/1xdk-mCkxCDNwsMAk2SGv203rY1mrbnPB?usp=sharing)
 
 The purpose of this project was to find a pre-trained model that classified the images with high accuracy, then build our own model and compare its accuracy to champion pre-trained model. We trained six pre-trained models on the dataset with the same parameters and the same fully connected layers. The models we used were VGG16, VGG19, InceptionV3, Xception, ResNet50, and ResNet152. From our research, ResNet152 model had the highest accuracy of 95% when predicting the test dataset.
 
