@@ -15,4 +15,4 @@ Due to time constraint, we used the same parameters on all the models. Also, we 
 
 Also, during our research we used Grad CAM to analyze what the model sees at a given layer. One of the criticisms most often raised about neural networks is that they are 'black-boxes,' therefore, a big challenge with these models is model interpretability: "how are the "guts" of the model functioning, and are they functioning correctly?". GradCAM helps to visualize what areas or features the model uses to classify an image as either covid or normal. Using the gradients of specific classes flowing into the last convolution layer, Grad-CAM creates a heatmap that shows the regions of the image that are important for correct classification 
 
-You can read more about this article here: https://github.com/youavang/Covid-19_CT_Scan_With_Deep_Learning/blob/main/Covid-19%20CT%20Scan%20Prediction%20With%20Deep%20Learning.pdf
+You can read more about this project here: [Covid-19 CT Scan Prediction With Deep Learning](https://github.com/youavang/Covid-19_CT_Scan_With_Deep_Learning/blob/main/Covid-19%20CT%20Scan%20Prediction%20With%20Deep%20Learning.pdf)
